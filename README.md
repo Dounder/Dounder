@@ -1,9 +1,14 @@
-<div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Douglas</h1>
-</div>
+# Hi there, I'm Douglas 👋
 
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+## About Me 🚀
+
+I'm a passionate developer with a keen interest in web technologies. I love to create and contribute to projects that are both challenging and rewarding.
+
+## My Work 🔍
+
+Here, you'll find repositories where I explore and share my work with:
+
+- **Nest.js**: Check out my `nest` repository for backend templates and projects that leverage the robust architecture of Nest.js to create scalable server-side applications.
+- **Vue.js**: Dive into my `vue` repository where I play with Vue.js to build reactive and engaging user interfaces.
+- **Flutter**: Take a look at my `flutter` repository to see a collection of Flutter projects and exercises, perfect for anyone looking to build cross-platform mobile apps.
+- **Qwik**: Explore my `qwik` repository to find projects and exercises using Qwik, a new kind of web framework optimized for performance.
